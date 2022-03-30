@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3a3a3a</color>
+    <color name="colorPrimaryDark">#415057</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="colorBackground">#3a3a3a</color>
+    <color name="colorText">#939393</color>
+    <color name="colorTextHint">#415057</color>
+    <color name="titleEvent">#3292c4</color>
+    <color name="textEvent">#ffffff</color>
+    <color name="bottom_navigation">#71000d</color>
+</resources>
